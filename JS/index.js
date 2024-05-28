@@ -57,3 +57,4 @@ fetch("https://www.swapi.tech/api/people/1")
     .then(data => console.log(data))
     .catch(error => console.error("Error fetching data:", error));
 
+//editgit status
